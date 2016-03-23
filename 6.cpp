@@ -1,5 +1,5 @@
 #include <iostream.h>
-main() {
+int main() {
     cout << "Hello World!";
     return 0;
-}
+} //zmiana int main
