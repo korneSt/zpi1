@@ -1,5 +1,5 @@
-#include <iostream.h>
+#include <iostream.h> //komentarz
 main() {
-    cout << "Hello World!";
+    cout << "Hello Universe!";
     return 0;
 }
